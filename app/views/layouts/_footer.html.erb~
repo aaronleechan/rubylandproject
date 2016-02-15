@@ -1,0 +1,15 @@
+<div class = "container">
+  <footer class="footer">
+   <small>
+    Copyright &copy; <a href= "http://www.cs.sjsu.edu/~mak/">Professor Webside</a>
+    by <a href = "http://www.cs.sjsu.edu/~mak/CS160/index.html">Ronald Mak </a></br>
+    Copyright &copy; <a href= "http://www.udemy.com">The Complete Ruby on Rails Developer</a> 
+    by <a href = "http://www.mashrurhossain.com/">Mashrur Hosain</a>
+    </small>
+      <nav>
+        <ul>
+          <li><%= link_to "About",pages_path %></li>
+        </ul>
+       </nav>
+   </footer>
+</div>
